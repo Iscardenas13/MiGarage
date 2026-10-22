@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165741247509",
+    "project_id": "migarage-edd5c",
+    "storage_bucket": "migarage-edd5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165741247509:android:45bdfabd79dc7602fae21c",
+        "android_client_info": {
+          "package_name": "com.example.migarage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPLbYer3OoLJuG5PgvbGB9nyQd6_7tPww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
